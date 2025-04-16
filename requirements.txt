@@ -1,0 +1,3 @@
+subfinder==2.7.0
+httpx==1.2.0
+nuclei==v3.4.2
