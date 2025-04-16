@@ -48,6 +48,7 @@ The script performs the following tasks:
 
 Below is a screenshot of the scan execution:
 
+![image](https://github.com/user-attachments/assets/047a0f72-40d0-417b-8239-14a4b0fbcc05)
 
 ---
 
